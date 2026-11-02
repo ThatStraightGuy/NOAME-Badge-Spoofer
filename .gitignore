@@ -1,0 +1,7 @@
+﻿noame_state.json
+science_state.json
+dist/
+build/
+*.spec
+__pycache__/
+core/__pycache__/
