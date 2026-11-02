@@ -12,10 +12,10 @@
 ## ✦ Overview
 **NOAME badges** is a zero-dependency Discord telemetry spoofer. It simulates game launches and playtime tracking across Discord's verified database to help trigger profile badges:
 
-| Badge | Title | What it Spoofs |
-| :---: | :---: | :---: |
-| 🎮  Emulates `launch_game` events across 100+ detectable Windows game titles |
-| ⌛  Dispatches `running_game_heartbeat` events accumulating 5,000+ hours of playtime |
+| Badge | What it Spoofs |
+| :---: | :---: |
+| 🎮  Emulates `launch_game` events across 100+ detectable Windows game titles | Game-collection
+| ⌛  Dispatches `running_game_heartbeat` events accumulating 5,000+ hours of playtime | Play-time
 
 *Note: Discord evaluates badges asynchronously. Once events are dispatched, badges typically populate on your profile within 24 to 48 hours.*
 
