@@ -1,4 +1,4 @@
-# ⸸ NOAME BADGES ⸸ 
+# ༒ NOAME BADGES ༒
 <img width="35" height="16" alt="image" src="https://github.com/user-attachments/assets/7d141ee2-53d9-42d1-adeb-37efb4de84d8" />
 
 ### Discord Telemetry & Activity Spoofer — Universalist & Eternal Badge Tool
