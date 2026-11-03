@@ -2,7 +2,7 @@
 <img width="35" height="16" alt="image" src="https://github.com/user-attachments/assets/7d141ee2-53d9-42d1-adeb-37efb4de84d8" />
 
 ### Discord Telemetry & Activity Spoofer — Universalist, Eternal & Streaming Badge Tool
-*Crafted by Yeti [ @yvlsoul ]*
+*Crafted by Yeti [ `@despairlyf `]*
 
 ---
 
