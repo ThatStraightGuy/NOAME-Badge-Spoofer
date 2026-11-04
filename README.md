@@ -166,7 +166,7 @@ Only needed if you're on a datacenter IP or VPN and getting Cloudflare 403 block
 <details>
 <summary><b>My badge hasn't shown up.</b></summary>
 
-Badges are evaluated asynchronously and can take 24 to 48 hours or longer. Restart Discord and check your profile again. There's no guarantee a badge will be granted.
+Badges are evaluated asynchronously and can take 24 to 48 hours or longer. Restart Discord and check your profile again.
 </details>
 
 <details>
