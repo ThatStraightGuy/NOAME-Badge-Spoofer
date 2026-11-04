@@ -29,15 +29,15 @@
 > [!WARNING]
 > **This tool is against Discord's Terms of Service.** It sends fabricated game-launch, playtime and streaming events to Discord using your account token.
 >
-> - Your account **can be flagged, restricted or permanently banned.**
-> - Badges may never appear, or may be removed later.
-> - Use an **alt or throwaway account**, not your main.
+> - Your account **can be flagged**, very less chances though.
 > - The author takes **no responsibility** for bans, lost accounts or any other consequences.
 > - This project is **not affiliated with, endorsed by or sponsored by Discord Inc.** Discord and its badge artwork belong to Discord.
 
 > [!CAUTION]
 > **Your token gives full access to your account.** Never post it publicly, never share it, and only enter it into software you trust. If you think it leaked, change your password right away, which invalidates the token. See [Token safety](#-token-safety).
 
+> [!NOTE]
+> After using this tool, you may change your password just for safety if you doubt, this tool does **NOT** redirect your token to anyone or anywhere, it temporarily saves it on your pc as `noame_state.json`.
 ---
 
 ## ✦ Overview
