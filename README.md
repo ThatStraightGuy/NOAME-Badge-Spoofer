@@ -1,5 +1,6 @@
 # ༒ NOAME BADGES ༒
-<img width="35" height="16" alt="image" src="https://github.com/user-attachments/assets/7d141ee2-53d9-42d1-adeb-37efb4de84d8" />
+<img width="852" height="171" alt="image" src="https://github.com/user-attachments/assets/d1010799-0613-46f4-aea2-84546717f7e0" />
+
 
 ### Discord Telemetry & Activity Spoofer — Universalist, Eternal & Streaming Badge Tool
 *Crafted by Yeti [ `@despairlyf` ]*
