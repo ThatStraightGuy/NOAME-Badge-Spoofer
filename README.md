@@ -201,11 +201,11 @@ Bug reports and pull requests are welcome. Open an [issue](../../issues) with yo
 
 ## ✦ License
 
-Released under the [MIT License](LICENSE). *(Add a `LICENSE` file, or change this line to match your choice.)*
+Released under the [MIT License](LICENSE).
 
 ## ✦ Credits
 
-- **Developer:** Yeti ([@despairlyf](https://github.com/despairlyf))
+- **Developer:** Yeti ([@despairlyf](https://discord.com/users/751872043233968198))
 - **Core architecture:** Revere Group and dolfies, for reverse-engineered client telemetry validation
 - **Streaming handshake:** sonujana26, for the headless Gateway + Voice + Go Live engine
 
