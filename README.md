@@ -206,8 +206,6 @@ Released under the [MIT License](LICENSE).
 ## ✦ Credits
 
 - **Developer:** Yeti ([@despairlyf](https://discord.com/users/751872043233968198))
-- **Core architecture:** Revere Group and dolfies, for reverse-engineered client telemetry validation
-- **Streaming handshake:** sonujana26, for the headless Gateway + Voice + Go Live engine
 
 <div align="center">
 <sub>Not affiliated with Discord Inc. Use at your own risk.</sub>
