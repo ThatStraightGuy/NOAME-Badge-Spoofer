@@ -191,7 +191,7 @@ Executables built from Python are commonly flagged as false positives. Verify th
 <summary><b>Will I get banned?</b></summary>
 
 It's possible but very less possibility of getting banned. This violates Discord's Terms of Service and there's no way to guarantee safety. 
-</details>.
+</details>
 
 ---
 
