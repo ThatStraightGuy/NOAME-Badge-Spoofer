@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="NOAME badges" width="100%">
+<img src="banner.png" alt="NOAME badges" width="100%">
 
 # NOAME badges
 
